@@ -1,0 +1,70 @@
+.main {
+	text-align: center;
+	width: 700px;
+	margin: 30px auto;
+}
+
+.panel {
+	float: left;
+	text-align: left;
+}
+
+.panel ul {
+	list-style-type: none;
+}
+
+.map {
+	float: right;
+	width: 350px;
+}
+
+.square {
+	float: left;
+	width: 50px;
+	height: 50px;
+}
+
+.weapon {
+	background-image: url('./assets/dagger.png'), url('./assets/dirt_full.png');
+	background-repeat: no-repeat, repeat;
+	background-position: center, center;
+}
+
+.outerWall {
+	background-image: url('./assets/crystal_floor0.png');
+}
+
+.floor {
+	background-image: url('./assets/dirt_full.png');
+}
+
+.playerLeft {
+	background-image: url('./assets/dwarf.png'), url('./assets/dirt_full.png');
+	background-repeat: no-repeat, repeat;
+	background-position: center, center;
+}
+
+.playerRight {
+	background-image: url('./assets/dwarfright.png'), url('./assets/dirt_full.png');
+	background-repeat: no-repeat, repeat;
+	background-position: center, center;
+}
+
+.wall {
+	background-image: url('./assets/brick_brown-vines2.png');
+}
+
+.health {
+	background-image: url('./assets/ruby.png'), url('./assets/dirt_full.png');
+	background-repeat: no-repeat, repeat;
+	background-position: center, center;
+}
+
+.monster {
+	background-image: url('./assets/goblin.png'), url('./assets/dirt_full.png');
+	background-repeat: no-repeat, repeat;
+	background-position: center, center;
+}
+
+
+
