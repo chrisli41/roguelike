@@ -1,6 +1,20 @@
 {
-  "main.css": "static/css/main.1a7592b6.css",
-  "main.css.map": "static/css/main.1a7592b6.css.map",
-  "main.js": "static/js/main.068fddfa.js",
-  "main.js.map": "static/js/main.068fddfa.js.map"
+  "main.css": "static/css/main.6181310b.css",
+  "main.css.map": "static/css/main.6181310b.css.map",
+  "main.js": "static/js/main.20b6a48c.js",
+  "main.js.map": "static/js/main.20b6a48c.js.map",
+  "static/media/glyphicons-halflings-regular.eot": "static/media/glyphicons-halflings-regular.f4769f9b.eot",
+  "static/media/glyphicons-halflings-regular.svg": "static/media/glyphicons-halflings-regular.89889688.svg",
+  "static/media/glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.e18bbf61.ttf",
+  "static/media/glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
+  "static/media/glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2",
+  "static/media/julius-sans-one-v5-latin-regular.eot": "static/media/julius-sans-one-v5-latin-regular.30301b4d.eot",
+  "static/media/julius-sans-one-v5-latin-regular.svg": "static/media/julius-sans-one-v5-latin-regular.51b4f6b4.svg",
+  "static/media/julius-sans-one-v5-latin-regular.ttf": "static/media/julius-sans-one-v5-latin-regular.01253a4d.ttf",
+  "static/media/julius-sans-one-v5-latin-regular.woff": "static/media/julius-sans-one-v5-latin-regular.7fce1cad.woff",
+  "static/media/julius-sans-one-v5-latin-regular.woff2": "static/media/julius-sans-one-v5-latin-regular.bf64ad82.woff2",
+  "static/media/open-sans-v13-latin-regular.eot": "static/media/open-sans-v13-latin-regular.c35ad7c7.eot",
+  "static/media/open-sans-v13-latin-regular.svg": "static/media/open-sans-v13-latin-regular.7e735d7a.svg",
+  "static/media/open-sans-v13-latin-regular.woff": "static/media/open-sans-v13-latin-regular.ce659615.woff",
+  "static/media/open-sans-v13-latin-regular.woff2": "static/media/open-sans-v13-latin-regular.e64cab16.woff2"
 }
